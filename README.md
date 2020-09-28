@@ -1,4 +1,5 @@
 manki: esperanto - "to be lacking"
+Also sounds like manky
 
 But also Markdown Anki
 
